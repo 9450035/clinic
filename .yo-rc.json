@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.clinic"
+    },
+    "jhipsterVersion": "6.9.1",
+    "applicationType": "microservice",
+    "baseName": "clinic",
+    "packageName": "org.clinic",
+    "packageFolder": "org/clinic",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGRjYTkzNWQ0NTIwNjI2NjUyZGU3YTljY2M2MDU2NTUwYTNjYWY2ZmZhMjk1ODJlZTA3YzVmZmU2ZTA3ZWMxZTJlMzJhZDc4ZTQxNzlhYzViOTllMDRlMjc3OTgyNDNkMTU3YjYyYWVkYThlNjcxNmQxNDQ0ODBjMmViMWNhZGM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1680641050853,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1680642082000
+  }
+}
